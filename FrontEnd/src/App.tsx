@@ -1,11 +1,14 @@
-
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
+import Landing from './pages/Landing'
 function App() {
 
   return (
     <>
-    <div>
-      <h1 className="border-dotted border-2">Hello world</h1>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Landing/>}/>
+      </Routes>
+    </Router>
       
     </>
   )

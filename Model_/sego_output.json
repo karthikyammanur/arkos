@@ -1,0 +1,232 @@
+{
+  "forecast": {
+    "predicted_demand_kW": [
+      2.1865618368943536,
+      0.7423101788858574,
+      0.37615193691849713,
+      0.33395097557703657,
+      0.33405340940157574,
+      0.3453552747090658,
+      0.5688066063483557,
+      0.44788256531755133,
+      0.49698184049725536,
+      0.8342131252884866,
+      2.025846619017919,
+      1.9993454156557722,
+      1.3464549491445226,
+      1.8378845792849863,
+      1.8148954749743147,
+      1.8968714999755227,
+      1.4537987875223162,
+      1.3148388642946882,
+      1.375786989895503,
+      1.4990828822970392,
+      1.7536066705862685,
+      1.4367530510067943,
+      1.6170981575846675,
+      1.8332434062798821
+    ]
+  },
+  "optimizer": [
+    {
+      "hour": 0,
+      "demand_kW": 2.1865618368943536,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 2.1865618368943536,
+      "hour_cost_$": 0.32798427553415305,
+      "hour_emissions": 2.1865618368943536
+    },
+    {
+      "hour": 1,
+      "demand_kW": 0.7423101788858574,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 0.7423101788858574,
+      "hour_cost_$": 0.1113465268328786,
+      "hour_emissions": 0.7423101788858574
+    },
+    {
+      "hour": 2,
+      "demand_kW": 0.37615193691849713,
+      "renewable_used_kW": 0.1,
+      "nonrenewable_kW": 0.27615193691849715,
+      "hour_cost_$": 0.046422790537774566,
+      "hour_emissions": 0.27615193691849715
+    },
+    {
+      "hour": 3,
+      "demand_kW": 0.33395097557703657,
+      "renewable_used_kW": 0.3,
+      "nonrenewable_kW": 0.03395097557703658,
+      "hour_cost_$": 0.020092646336555487,
+      "hour_emissions": 0.03395097557703658
+    },
+    {
+      "hour": 4,
+      "demand_kW": 0.33405340940157574,
+      "renewable_used_kW": 0.33405340940157574,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.016702670470078788,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 5,
+      "demand_kW": 0.3453552747090658,
+      "renewable_used_kW": 0.3453552747090658,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.01726776373545329,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 6,
+      "demand_kW": 0.5688066063483557,
+      "renewable_used_kW": 0.5688066063483557,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.028440330317417786,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 7,
+      "demand_kW": 0.44788256531755133,
+      "renewable_used_kW": 0.44788256531755133,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.02239412826587757,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 8,
+      "demand_kW": 0.49698184049725536,
+      "renewable_used_kW": 0.49698184049725536,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.024849092024862768,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 9,
+      "demand_kW": 0.8342131252884866,
+      "renewable_used_kW": 0.8342131252884866,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.04171065626442433,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 10,
+      "demand_kW": 2.025846619017919,
+      "renewable_used_kW": 2.025846619017919,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.10129233095089596,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 11,
+      "demand_kW": 1.9993454156557722,
+      "renewable_used_kW": 1.9993454156557722,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.09996727078278861,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 12,
+      "demand_kW": 1.3464549491445226,
+      "renewable_used_kW": 1.3464549491445226,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.06732274745722613,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 13,
+      "demand_kW": 1.8378845792849863,
+      "renewable_used_kW": 1.8378845792849863,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.09189422896424931,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 14,
+      "demand_kW": 1.8148954749743147,
+      "renewable_used_kW": 1.8148954749743147,
+      "nonrenewable_kW": 0.0,
+      "hour_cost_$": 0.09074477374871574,
+      "hour_emissions": 0.0
+    },
+    {
+      "hour": 15,
+      "demand_kW": 1.8968714999755227,
+      "renewable_used_kW": 1.8,
+      "nonrenewable_kW": 0.09687149997552269,
+      "hour_cost_$": 0.10453072499632841,
+      "hour_emissions": 0.09687149997552269
+    },
+    {
+      "hour": 16,
+      "demand_kW": 1.4537987875223162,
+      "renewable_used_kW": 1.0,
+      "nonrenewable_kW": 0.45379878752231617,
+      "hour_cost_$": 0.11806981812834742,
+      "hour_emissions": 0.45379878752231617
+    },
+    {
+      "hour": 17,
+      "demand_kW": 1.3148388642946882,
+      "renewable_used_kW": 0.5,
+      "nonrenewable_kW": 0.8148388642946882,
+      "hour_cost_$": 0.14722582964420322,
+      "hour_emissions": 0.8148388642946882
+    },
+    {
+      "hour": 18,
+      "demand_kW": 1.375786989895503,
+      "renewable_used_kW": 0.2,
+      "nonrenewable_kW": 1.1757869898955031,
+      "hour_cost_$": 0.18636804848432548,
+      "hour_emissions": 1.1757869898955031
+    },
+    {
+      "hour": 19,
+      "demand_kW": 1.4990828822970392,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 1.4990828822970392,
+      "hour_cost_$": 0.22486243234455588,
+      "hour_emissions": 1.4990828822970392
+    },
+    {
+      "hour": 20,
+      "demand_kW": 1.7536066705862685,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 1.7536066705862685,
+      "hour_cost_$": 0.2630410005879403,
+      "hour_emissions": 1.7536066705862685
+    },
+    {
+      "hour": 21,
+      "demand_kW": 1.4367530510067943,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 1.4367530510067943,
+      "hour_cost_$": 0.21551295765101913,
+      "hour_emissions": 1.4367530510067943
+    },
+    {
+      "hour": 22,
+      "demand_kW": 1.6170981575846675,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 1.6170981575846675,
+      "hour_cost_$": 0.2425647236377001,
+      "hour_emissions": 1.6170981575846675
+    },
+    {
+      "hour": 23,
+      "demand_kW": 1.8332434062798821,
+      "renewable_used_kW": 0.0,
+      "nonrenewable_kW": 1.8332434062798821,
+      "hour_cost_$": 0.2749865109419823,
+      "hour_emissions": 1.8332434062798821
+    }
+  ],
+  "emissions": {
+    "baseline_CO2_kg": 27.48,
+    "optimized_CO2_kg": 12.81,
+    "saved_CO2_kg": 14.68,
+    "percent_saved": 53.4,
+    "car_miles_avoided": 36,
+    "trees_planted_equivalent": 0.7
+  }
+}

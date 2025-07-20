@@ -8,6 +8,8 @@ _Democratizing energy optimization through intelligent analytics_
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg)](https://www.typescriptlang.org/)
 
+[🚀 Get Started](#setup-) • [📋 Features](#-features) • [🛠️ Tech Stack](#️-technology-stack) • [👥 Team](#-team--contributors)
+
 </div>
 
 ---
@@ -15,6 +17,16 @@ _Democratizing energy optimization through intelligent analytics_
 ## 🎯 Overview
 
 **Arkos** is an intelligent energy analytics and advisory platform designed to help households and small businesses reduce energy costs and optimize consumption patterns through cutting-edge AI-driven insights. Our mission is to make advanced energy optimization tools accessible to everyone, regardless of technical expertise or economic background.
+
+## 🎥 Demo Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3TiOBKwIfVY">
+    <img src="https://img.youtube.com/vi/3TiOBKwIfVY/maxresdefault.jpg" alt="Arkos Demo Video" width="600">
+  </a>
+  <br>
+  <em>Click the image above to watch our demo video showcasing Arkos in action!</em>
+</div>
 
 ## 💡 Inspiration & Context
 

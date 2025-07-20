@@ -8,8 +8,6 @@ _Democratizing energy optimization through intelligent analytics_
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg)](https://www.typescriptlang.org/)
 
-[🚀 Get Started](#setup-🚀) • [✨ Features](#✨-features) • [🛠️ Tech Stack](#🛠️-technology-stack) • [👥 Team](#👥-team--contributors)
-
 </div>
 
 ---
